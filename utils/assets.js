@@ -1,0 +1,70 @@
+function printLogo() {
+  console.log('                                `.-://////::-.                                  ');
+  console.log('                          -/ohdNmdhyssooossyhdmNdyo/.                           ');
+  console.log('                      :ohNds+:.                `.:oydNh+-                       ');
+  console.log('                  `/yNdo:`                           `:sdms:                    ');
+  console.log('                -sNh+.                                   .odmo.                 ');
+  console.log('              :dms.                                        `:yNy-               ');
+  console.log('            :dmo`                 :+so/.                      .sNy.             ');
+  console.log('          `yNs.                 .dNhosmN+                       -hNo            ');
+  console.log('         :mm-                   sMh   :MM                         /Nd.          ');
+  console.log('        +Ny`                    /MNs/+dMs                          .dm:         ');
+  console.log('       oMs                    `omdoyhyo-                            `hN:        ');
+  console.log('      +Ms                   `omd/`                                   `dN-       ');
+  console.log('     -Nh`                 `omd/`                                      .mm`      ');
+  console.log('     dN.                `omd+`                                         /Ms      ');
+  console.log('    :Ms       `-:///:-.+md+`            hd:                             dN.     ');
+  console.log('    hM.     :ymdhssshmmN+`    .:::-.  `.NM+..  `--      --`   `-:::-`   /Mo     ');
+  console.log('    Nm    `yNh:` .-::+MM.   `hNdhhhd: /hMMdhh` :NN     `NN.  /mmhyhdy   `Mh     ');
+  console.log('   .My    yMy` :hmyoooNM:   :MM:` `.   `NM/``  :MN     `MM-  dMy.  ``    NN     ');
+  console.log('   -Ms   .MM. `NM/    mM:    +dmdy+-    NM/    :MN     `MM-  -ymdhs:`    mM     ');
+  console.log('   .My   `MM- `mMo`   mM:      .:omNs   NM/    :MM     +MM-    `-/yMm.   NN     ');
+  console.log('    Nm    sMd. .sdhyyymNhy  -y+---yMd   sMm+:` .NMs--/ydMM-  ss:--/MN:  `Mh     ');
+  console.log('    hM.    omm+-``-------.  .+ydddh+`   `/shd:  -ydddy+`hh.  :shddds:   /M+     ');
+  console.log('    :Ms     .+hdhhhhho:`                                                dN.     ');
+  console.log('     dN.       `.---/sNd:`                                             /Ms      ');
+  console.log('     -Nh`             .sNh:`                                          .Nm`      ');
+  console.log('      +Ms               .sNh:`                                       `dN-       ');
+  console.log('       oMs`               .sNh:`                                    `hN:        ');
+  console.log('        +Ny`                .sNh:`                                 -dm-         ');
+  console.log('         :mm:                 .sNh/+oo/.                          /Nh.          ');
+  console.log('          `yNs.                 -MMdssmNo                       -hNo            ');
+  console.log('            :dmo`               +Mm   -MM.                    .yNy.             ');
+  console.log('              :hms-             .mMs/+hMh                  `:yNy-               ');
+  console.log('                -sNh+.           `+yhhs:                `-odmo.                 ');
+  console.log('                  `/yNho:`                           `/sdms:                    ');
+  console.log('                     `:ohNds+:.`               `.:oydmh+-                       ');
+  console.log('                          -/oydmmdhysssosssyhdmmdyo/.                           ');
+  console.log('                                `.-://////::-.`                                 ');
+} 
+
+function printSkull() {
+console.log('                 uuuuuuu');
+console.log('             uu$$$$$$$$$$$uu');
+console.log('          uu$$$$$$$$$$$$$$$$$uu');
+console.log('         u$$$$$$$$$$$$$$$$$$$$$u');
+console.log('        u$$$$$$$$$$$$$$$$$$$$$$$u');
+console.log('       u$$$$$$$$$$$$$$$$$$$$$$$$$u');
+console.log('       u$$$$$$$$$$$$$$$$$$$$$$$$$u');
+console.log('       u$$$$$$"   "$$$"   "$$$$$$u');
+console.log('       "$$$$"      u$u       $$$$"');
+console.log('        $$$u       u$u       u$$$');
+console.log('        $$$u      u$$$u      u$$$');
+console.log('         "$$$$uu$$$   $$$uu$$$$"');
+console.log('          "$$$$$$$"   "$$$$$$$"');
+console.log('            u$$$$$$$u$$$$$$$u');
+console.log('             u$"$"$"$"$"$"$u');
+console.log('  uuu        $$u$ $ $ $ $u$$       uuu');
+console.log(' u$$$$        $$$$$u$u$u$$$       u$$$$');
+console.log('  $$$$$uu      "$$$$$$$$$"     uu$$$$$$');
+console.log('u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$');
+console.log('$$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"');
+console.log(' """      ""$$$$$$$$$$$uu ""$"""');
+console.log('           uuuu ""$$$$$$$$$$uuu');
+console.log('  u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$');
+console.log('  $$$$$$$$$$""""           ""$$$$$$$$$$$"');
+console.log('   "$$$$$"                      ""$$$$""');
+console.log('     $$$"                         $$$$"');
+}
+
+module.exports = {printLogo, printSkull};
