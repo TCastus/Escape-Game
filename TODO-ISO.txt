@@ -1,0 +1,6 @@
+Clone repo Escape-game
+installer no-more-secret
+installer cowsay (a voir)
+installer figlet
+changer wallpaper -> cp wallpaper.png /usr/share/backgrounds/warty-final-ubuntu.png
+fichier pour les alias
